@@ -1,3 +1,18 @@
 h1 {
   font-family: Helvetica, Verdana, sans-serif;
 }
+
+div {
+  border: dashed 1px red;
+}
+
+span {
+  border: solid 1px green;
+  display: block;
+  width: 200px;
+}
+
+h5 {
+  background-color: pink;
+  width: 400px;
+}
